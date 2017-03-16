@@ -4,7 +4,8 @@
 	"description": "A simple tool to merge package.json files",
 	"main": "index.js",
 	"bin": {
-		"node-proxy": "index.js",
+    "simple-xdomain-proxy": "index.js",
+		"xdomain-proxy": "index.js",
 		"proxy": "index.js"
 	},
 	"scripts": {
