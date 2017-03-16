@@ -1,0 +1,24 @@
+{
+	"name": "simple-xdomain-proxy",
+	"version": "1.0.0",
+	"description": "A simple tool to merge package.json files",
+	"main": "index.js",
+	"bin": {
+		"node-proxy": "index.js",
+		"proxy": "index.js"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "goumang2010",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/goumang2010/simple-node-proxy.git"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"http-proxy": "^1.16.2",
+		"inquirer": "^3.0.6",
+		"ora": "^1.1.0"
+	}
+}
