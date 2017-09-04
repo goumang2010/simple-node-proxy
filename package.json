@@ -1,10 +1,10 @@
 {
 	"name": "simple-xdomain-proxy",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "A simple tool to merge package.json files",
 	"main": "index.js",
 	"bin": {
-    "simple-xdomain-proxy": "index.js",
+		"simple-xdomain-proxy": "index.js",
 		"xdomain-proxy": "index.js",
 		"proxy": "index.js"
 	},
